@@ -3,10 +3,12 @@
 @import 'buttons.css';
 @import 'recipe-list.css';
 @import 'recipe.css';
-@import 'ingredient-grid';
+@import 'ingredient-grid.css';
+@import 'recipe-edit.css';
 
 *, *::before, *::after {
     font-family: Gotham Rounded, sans-serif;
+    box-sizing: border-box;
 }
 
 html {
